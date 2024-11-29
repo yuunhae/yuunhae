@@ -1,9 +1,4 @@
- # 🦋 Yuunhae's GitHub
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fyuunhae&count_bg=%2382B0F3&title_bg=%23000000&icon=react.svg&icon_color=%2389B3FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
+ ![Intro](https://github.com/user-attachments/assets/5159bef0-7426-433f-95fa-2b0de635e625)
 ### Introduction
 - 🌱 **현재 배우는 중**: React, TypeScript, 프론트 개발
 - 💡 **관심 분야**: TypeScript, React, Tailwind CSS, UI/UX 
@@ -21,10 +16,12 @@
 
 ---
 ### 📈 GitHub 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fyuunhae&count_bg=%2382B0F3&title_bg=%23000000&icon=react.svg&icon_color=%2389B3FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunhae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuunhae&show_icons=true&theme=)
 
----
 
 ### 🔗 Information
 - 📧 **이메일**: susu12356@gmail.com
