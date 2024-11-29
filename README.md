@@ -32,7 +32,7 @@
 
 ### 📚 Recent Project
 1. **[일기네컷](https://4cutsdiary.klr.kr)**: React로 만든 인생네컷 사진일기 서비스
-2. **[mood](https://mood-frontend-steel.vercel.app/login)**: ChatGpt를 이용한 아이스브레이킹 서비스
+2. **[mood](https://mood-frontend-steel.vercel.app/)**: ChatGpt를 이용한 아이스브레이킹 서비스
 
 ---
 방문해 주셔서 감사합니다.
