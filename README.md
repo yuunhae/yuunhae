@@ -2,7 +2,7 @@
 ### Introduction
 - 🌱 **현재 배우는 중**: React, TypeScript, 프론트 개발
 - 💡 **관심 분야**: TypeScript, React, Tailwind CSS, UI/UX 
-- 😎  기능적인 코드와 엄청난 UI를 만들기 위해 오늘도  뚠뚠
+- 😎 **한 마디**: 엄청난 코드와 엄청난 UI를 만들기 위해 오늘도 뚠뚠
 ---
 
 ###  Tech
