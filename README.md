@@ -1,4 +1,5 @@
- ![Intro](https://github.com/user-attachments/assets/278c44ad-4f74-4a4b-ba40-bfd87c537132)
+ ![Intro](https://github.com/user-attachments/assets/086c22b6-f77d-46ba-99c8-a97e8147efd2)
+
 
 ### Introduction
 - 🌱 **현재 배우는 중**: Tailwind CSS, TypeScript, Next.js
