@@ -1,8 +1,7 @@
- ![Intro](https://github.com/user-attachments/assets/5159bef0-7426-433f-95fa-2b0de635e625)
+ ![Intro]![제목을 입력해주세요_-001](https://github.com/user-attachments/assets/eef8e012-780e-46e0-a6a5-3260e0e82eff)
 ### Introduction
-- 🌱 **현재 배우는 중**: React, TypeScript, 프론트 개발
+- 🌱 **현재 배우는 중**: Tailwind CSS, TypeScript, Next.js
 - 💡 **관심 분야**: TypeScript, React, Tailwind CSS, UI/UX 
-- 😎 **한 마디**: 엄청난 코드와 엄청난 UI를 만들기 위해 오늘도 뚠뚠
 ---
 
 ###  Tech
